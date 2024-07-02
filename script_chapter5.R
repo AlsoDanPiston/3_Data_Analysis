@@ -28,3 +28,5 @@ summary(gapminder$continent)
 nlevels(gapminder$continent)
 barplot(table(gapminder$continent))
 
+
+
